@@ -1,0 +1,1 @@
+# Template from React-redux prototype apps
