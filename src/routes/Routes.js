@@ -5,8 +5,8 @@ import Main from './Main';
 
 const Routes = () => (
   <Router history={hashHistory}>
-      <Route path="/" component={Main}>
-      </Route>
+    <Route path="/" component={Main}>
+    </Route>
   </Router>
 );
 
